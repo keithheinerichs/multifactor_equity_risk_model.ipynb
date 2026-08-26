@@ -54,7 +54,8 @@ KO
 
 ## Dashboard
 
-[Insert dashboard image]
+<img width="2094" height="1310" alt="image" src="https://github.com/user-attachments/assets/e10ef445-bece-43c4-be00-d16c7d8a382d" />
+
 
 ## Technologies
 
